@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Online Job Portal",
+    "desc": "Fully fledged MERN job portal based on job seeker and job provider. Built using JavaScript, React, Express, Node, MongoDb.",
+    "image": "jobportal",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/SachinShrestha977/JobPortal"
+    }
+  },
+  {
+    "name": "Google Search Bar",
+    "desc": "Replicated the Google Search bar with light and dark theme changer. Built using JavaScript, React, Express, Tailwind CSS Node, MongoDb.",
+    "image": "searchbar",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/SachinShrestha977/GoogleSearchBar"
+    }
+  },
+  {
+    "name": "Helping Hands",
+    "desc": "Made an online job portal. Built using JavaScript, React, Express, Tailwind CSS Node, MongoDb.",
+    "image": "helpinghands",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/SachinShrestha977/HelpingHandsProject"
+    }
+  }
+]
